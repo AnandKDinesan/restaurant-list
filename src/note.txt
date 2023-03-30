@@ -1,0 +1,12 @@
+Routing in react
+install react-router-dom library
+    -Route--to set path for an element
+    -Routes-set path for more than one element
+    -BrowserRouter-both Route & routes render in this tag
+
+useParams-fetch data from url
+it is defined in react-router-dom
+
+-REDUX: State amanagement system
+    -prpops drillin, redux
+    -install redux,react-redux, redux-thunk
